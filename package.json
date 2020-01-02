@@ -5,7 +5,7 @@
   "main": "app.js",
   "dependencies": {
     "keypress": "^0.2.1",
-    "pigpio": "^0.3.4"
+    "pigpio": "^2.0.1"
   },
   "devDependencies": {},
   "scripts": {
